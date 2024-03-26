@@ -1,8 +1,8 @@
 # mule
 Encoder:  
 1) para compilar: navegar até o diretório Encoder/PPM/ e digitar make  
-2) Para codificar um lightfield: encoder -lf <nome do diretorio do lightfield> -o <nome do arquivo comprimido>  
--nh <numero de vistas na direcao horizontal> -nv <numero de vistas na direcao vertical>  
+2) Para codificar um lightfield: encoder -lf \<nome do diretorio do lightfield\> -o \<nome do arquivo comprimido\>  
+-nh \<numero de vistas na direcao horizontal\> -nv \<numero de vistas na direcao vertical\>  
 -off_h <numero da primeira vista na direcao horizontal> -off_v <numero da primeira vista na direcao vertical>  
 -t <tamanho do bloco 4D na direcao t> -s <tamanho do bloco 4D na direcao s>  
 -v <tamanho do bloco 4D na direcao v> -u <tamanho do bloco 4D na direcao u>  
